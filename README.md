@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a creative web developer who blends design and code to build beautiful, functional interfaces. Passionate about React, Next.js, and clean UI, I love learning and experimenting with new tech.
+Passionate Frontend Developer with 1.3+ years of experience crafting visually appealing, responsive, and user-focused web applications. Skilled in React.js, Next.js, TypeScript, and modern UI development, I enjoy transforming ideas into fast, scalable, and engaging digital experiences.
 
 
 ## 🌐 Socials:
